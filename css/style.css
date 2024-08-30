@@ -12125,7 +12125,7 @@ h5,
 
 .owl-carousel.home-slider {
   position: relative;
-  height: 500px;
+  height: 450px;
   z-index: 0;
 }
 
@@ -12133,7 +12133,7 @@ h5,
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  height: 500px;
+  height: 450px;
   position: relative;
   z-index: 0;
 }
@@ -12155,7 +12155,7 @@ h5,
 }
 
 .owl-carousel.home-slider .slider-item .slider-text {
-  height: 500px;
+  height: 450px;
   z-index: 0;
 }
 
@@ -12168,7 +12168,7 @@ h5,
 .owl-carousel.home-slider .slider-item .slider-text .one-third {
   width: 70%;
   position: relative;
-  height: 500px;
+  height: 450px;
   z-index: -1;
   -webkit-box-shadow: 20px -20px 69px -27px rgba(0, 0, 0, 0.16);
   -moz-box-shadow: 20px -20px 69px -27px rgba(0, 0, 0, 0.16);
